@@ -1,4 +1,2 @@
-# GigWechatgame 合成大西瓜微信小程序源码
-
-# 
+# GigWechatgame 合成大西瓜cocosCreator开发微信小程序
 
