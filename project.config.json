@@ -9,8 +9,13 @@
 	},
 	"compileType": "game",
 	"libVersion": "game",
+<<<<<<< HEAD
 	"appid": "wxa55a68a182ae0a7f",
 	"projectname": "ComposeWatermelon",
+=======
+	"appid": "wx6ac3f5090a6b99c5",
+	"projectname": "BigComposeWatermelon",
+>>>>>>> d919331... 修改版
 	"simulatorType": "wechat",
 	"simulatorPluginLibVersion": {},
 	"condition": {
